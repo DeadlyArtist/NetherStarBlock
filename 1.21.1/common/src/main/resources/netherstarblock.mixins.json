@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "netherstarblock.mixin",
+  "plugin": "netherstarblock.MixinPlugin",
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "client": [
+  ],
+  "mixins": [
+    "ItemEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
