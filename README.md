@@ -1,4 +1,4 @@
-# Nether Star Block
+# Nether Star Block ([Curseforge](https://www.curseforge.com/minecraft/mc-mods/nether-star-block), [Modrinth](https://modrinth.com/mod/nether-star-block))
 Minecraft mod that adds a single nether star block.
 
 To craft it, use 9 nether stars. Like the nether star, it cannot be destroyed from explosions, even in its item form.
